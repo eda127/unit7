@@ -1,0 +1,60 @@
+Game,Date,Winning team,Score,Losing team,Venue,City,Attendance,Referee
+I,"January 15, 1967",Green Bay Packers,35–10,Kansas City Chiefs,Los Angeles Memorial Coliseum,"Los Angeles, California","61,946",Norm Schachter
+II,"January 14, 1968",Green Bay Packers,33–14,Oakland Raiders,Miami Orange Bowl,"Miami, Florida","75,546",Jack Vest
+III,"January 12, 1969",New York Jets,16–7,Baltimore Colts,Miami Orange Bowl (2),"Miami, Florida","75,389",Tom Bell
+IV,"January 11, 1970",Kansas City Chiefs,23–7,Minnesota Vikings,Tulane Stadium,"New Orleans, Louisiana","80,562",John McDonough
+V,"January 17, 1971",Baltimore Colts,16–13,Dallas Cowboys,Miami Orange Bowl (3),"Miami, Florida","79,204",Norm Schachter
+VI,"January 16, 1972",Dallas Cowboys,24–3,Miami Dolphins,Tulane Stadium (2),"New Orleans, Louisiana","81,023",Jim Tunney
+VII,"January 14, 1973",Miami Dolphins,14–7,Washington Redskins,Los Angeles Memorial Coliseum (2),"Los Angeles, California","90,182",Tom Bell
+VIII,"January 13, 1974",Miami Dolphins,24–7,Minnesota Vikings,Rice Stadium[sb 4],"Houston, Texas","71,882",Ben Dreith
+IX,"January 12, 1975",Pittsburgh Steelers,16–6,Minnesota Vikings,Tulane Stadium (3),"New Orleans, Louisiana","80,997",Bernie Ulman
+X,"January 18, 1976",Pittsburgh Steelers,21–17,Dallas Cowboys,Miami Orange Bowl (4),"Miami, Florida","80,187",Norm Schachter
+XI,"January 9, 1977",Oakland Raiders,32–14,Minnesota Vikings,Rose Bowl[sb 5],"Pasadena, California","103,438",Jim Tunney
+XII,"January 15, 1978",Dallas Cowboys,27–10,Denver Broncos,Louisiana Superdome[sb 6],"New Orleans, Louisiana","76,400",Jim Tunney
+XIII,"January 21, 1979",Pittsburgh Steelers,35–31,Dallas Cowboys,Miami Orange Bowl (5),"Miami, Florida","79,484",Pat Haggerty
+XIV,"January 20, 1980",Pittsburgh Steelers,31–19,Los Angeles Rams,Rose Bowl (2)[sb 5][sb 7],"Pasadena, California","103,985",Fred Silva
+XV,"January 25, 1981",Oakland Raiders,27–10,Philadelphia Eagles,Louisiana Superdome (2)[sb 6],"New Orleans, Louisiana","76,135",Ben Dreith
+XVI,"January 24, 1982",San Francisco 49ers,26–21,Cincinnati Bengals,Pontiac Silverdome,"Pontiac, Michigan","81,270",Pat Haggerty
+XVII,"January 30, 1983",Washington Redskins,27–17,Miami Dolphins,Rose Bowl (3)[sb 5],"Pasadena, California","103,667",Jerry Markbreit
+XVIII,"January 22, 1984",Los Angeles Raiders,38–9,Washington Redskins,Tampa Stadium,"Tampa, Florida","72,920",Gene Barth
+XIX,"January 20, 1985",San Francisco 49ers,38–16,Miami Dolphins,Stanford Stadium[sb 9],"Stanford, California","84,059",Pat Haggerty
+XX,"January 26, 1986",Chicago Bears,46–10,New England Patriots,Louisiana Superdome (3)[sb 6],"New Orleans, Louisiana","73,818",Red Cashion
+XXI,"January 25, 1987",New York Giants,39–20,Denver Broncos,Rose Bowl (4)[sb 5],"Pasadena, California","101,063",Jerry Markbreit
+XXII,"January 31, 1988",Washington Redskins,42–10,Denver Broncos,San Diego–Jack Murphy Stadium[sb 11],"San Diego, California","73,302",Bob McElwee
+XXIII,"January 22, 1989",San Francisco 49ers,20–16,Cincinnati Bengals,Joe Robbie Stadium[sb 12],"Miami, Florida","75,129",Jerry Seeman
+XXIV,"January 28, 1990",San Francisco 49ers,55–10,Denver Broncos,Louisiana Superdome (4)[sb 6],"New Orleans, Louisiana","72,919",Dick Jorgensen
+XXV,"January 27, 1991",New York Giants,20–19,Buffalo Bills,Tampa Stadium (2),"Tampa, Florida","73,813",Jerry Seeman
+XXVI,"January 26, 1992",Washington Redskins,37–24,Buffalo Bills,Metrodome,"Minneapolis, Minnesota","63,130",Jerry Markbreit
+XXVII,"January 31, 1993",Dallas Cowboys,52–17,Buffalo Bills,Rose Bowl (5)[sb 5],"Pasadena, California","98,374",Dick Hantak
+XXVIII,"January 30, 1994",Dallas Cowboys,30–13,Buffalo Bills,Georgia Dome,"Atlanta, Georgia","72,817",Bob McElwee
+XXIX,"January 29, 1995",San Francisco 49ers,49–26,San Diego Chargers,Joe Robbie Stadium (2)[sb 12],"Miami, Florida","74,107",Jerry Markbreit
+XXX,"January 28, 1996",Dallas Cowboys,27–17,Pittsburgh Steelers,Sun Devil Stadium,"Tempe, Arizona","76,347",Red Cashion
+XXXI,"January 26, 1997",Green Bay Packers,35–21,New England Patriots,Louisiana Superdome (5)[sb 6],"New Orleans, Louisiana","72,301",Gerry Austin
+XXXII,"January 25, 1998",Denver Broncos,31–24,Green Bay Packers,Qualcomm Stadium (2)[sb 11],"San Diego, California","68,912",Ed Hochuli
+XXXIII,"January 31, 1999",Denver Broncos,34–19,Atlanta Falcons,Pro Player Stadium (3)[sb 12],"Miami, Florida","74,803",Bernie Kukar
+XXXIV,"January 30, 2000",St. Louis Rams,23–16,Tennessee Titans,Georgia Dome (2),"Atlanta, Georgia","72,625",Bob McElwee
+XXXV,"January 28, 2001",Baltimore Ravens,34–7,New York Giants,Raymond James Stadium,"Tampa, Florida","71,921",Gerry Austin
+XXXVI,"February 3, 2002",New England Patriots,20–17,St. Louis Rams,Louisiana Superdome (6)[sb 6],"New Orleans, Louisiana","72,922",Bernie Kukar
+XXXVII,"January 26, 2003",Tampa Bay Buccaneers,48–21,Oakland Raiders,Qualcomm Stadium (3)[sb 11],"San Diego, California","67,603",Bill Carollo
+XXXVIII,"February 1, 2004",New England Patriots,32–29,Carolina Panthers,Reliant Stadium[sb 14],"Houston, Texas","71,525",Ed Hochuli
+XXXIX,"February 6, 2005",New England Patriots,24–21,Philadelphia Eagles,Alltel Stadium,"Jacksonville, Florida","78,125",Terry McAulay
+XL,"February 5, 2006",Pittsburgh Steelers,21–10,Seattle Seahawks,Ford Field,"Detroit, Michigan","68,206",Bill Leavy
+XLI,"February 4, 2007",Indianapolis Colts,29–17,Chicago Bears,Dolphin Stadium (4)[sb 12],"Miami Gardens, Florida","74,512",Tony Corrente
+XLII,"February 3, 2008",New York Giants,17–14,New England Patriots,University of Phoenix Stadium[sb 15],"Glendale, Arizona","71,101",Mike Carey
+XLIII,"February 1, 2009",Pittsburgh Steelers,27–23,Arizona Cardinals,Raymond James Stadium (2),"Tampa, Florida","70,774",Terry McAulay
+XLIV,"February 7, 2010",New Orleans Saints,31–17,Indianapolis Colts,Sun Life Stadium (5)[sb 12],"Miami Gardens, Florida","74,059",Scott Green
+XLV,"February 6, 2011",Green Bay Packers,31–25,Pittsburgh Steelers,Cowboys Stadium,"Arlington, Texas","103,219",Walt Anderson
+XLVI,"February 5, 2012",New York Giants,21–17,New England Patriots,Lucas Oil Stadium,"Indianapolis, Indiana","68,658",John Parry
+XLVII,"February 3, 2013",Baltimore Ravens,34–31,San Francisco 49ers,Mercedes-Benz Superdome (7)[sb 6],"New Orleans, Louisiana","71,024",Jerome Boger
+XLVIII,"February 2, 2014",Seattle Seahawks,43–8,Denver Broncos,MetLife Stadium,"East Rutherford, New Jersey","82,529",Terry McAulay
+XLIX,"February 1, 2015",New England Patriots,28–24,Seattle Seahawks,University of Phoenix Stadium (2)[sb 15],"Glendale, Arizona","70,288",Bill Vinovich
+L,"February 7, 2016",Denver Broncos,24–10,Carolina Panthers,Levi's Stadium,"Santa Clara, California","71,088",Clete Blakeman
+LI,"February 5, 2017",New England Patriots,34–28,Atlanta Falcons,NRG Stadium (2)[sb 14],"Houston, Texas","70,807",Carl Cheffers
+LII,"February 4, 2018",Philadelphia Eagles,41–33,New England Patriots,U.S. Bank Stadium,"Minneapolis, Minnesota","67,612",Gene Steratore
+LIII,"February 3, 2019",New England Patriots,13–3,Los Angeles Rams,Mercedes-Benz Stadium,"Atlanta, Georgia","70,081",John Parry
+LIV,"February 2, 2020",Kansas City Chiefs,31–20,San Francisco 49ers,Hard Rock Stadium (6)[sb 12],"Miami Gardens, Florida","62,417",Bill Vinovich
+LV,"February 7, 2021",Tampa Bay Buccaneers,31–9,Kansas City Chiefs,Raymond James Stadium (3),"Tampa, Florida","24,835",Carl Cheffers
+LVI,"February 13, 2022",Los Angeles Rams,23–20,Cincinnati Bengals,SoFi Stadium,"Inglewood, California","70,048",Ron Torbert
+LVII,"February 12, 2023",Kansas City Chiefs,38–35,Philadelphia Eagles,State Farm Stadium (3)[sb 15],"Glendale, Arizona","67,827",Carl Cheffers
+VIII,"February 11, 2024",Kansas City Chiefs,25–22,San Francisco 49ers,Allegiant Stadium,"Paradise, Nevada","61,629",Bill Vinovich
+LIX,"February 9, 2025",Philadelphia Eagles,40–22,Kansas City Chiefs,Caesars Superdome,"New Orleans, Louisiana","65,719",Ron Torbert	
