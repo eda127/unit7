@@ -1,15 +1,16 @@
 import java.util.ArrayList;
-import java.util.*;
 import java.util.Scanner;
 import java.io.File;
 
-public class GameList {
-    Scanner text = new Scanner(System.in);
+public class GameList { 
     File file = new File("C:\\Users\\student\\.vscode\\.vscode\\unit 7 project\\SuperBowlData.txt");
+    Scanner text = new Scanner(file);
     
-    private ArrayList<Game> superBowls = new ArrayList<Game>();
+    private ArrayList<Game> superBowls;
     
-    public GameList() throws Exception {
+    public GameList(File file) throws Exception {
+        superBowls = new ArrayList<Game>();
+
         while (text.hasNextLine()) {
             String line = text.nextLine();
             //I,"January 15, 1967",Green Bay Packers,35–10,Kansas City Chiefs,Los Angeles Memorial Coliseum,"Los Angeles, California","61,946",Norm Schachter
@@ -19,7 +20,7 @@ public class GameList {
             int nothing = line.indexOf(",", numeralPos + 1);
 
             int datePos = line.indexOf(",", nothing);
-            String date = line.substring(nothing+2, datePos-1);
+            int year = Integer.valueOf(line.substring(nothing+2, datePos-1));
             
             int winnerPos = line.indexOf(",", datePos + 1);
             String winner = line.substring(datePos+1, winnerPos);
@@ -41,6 +42,12 @@ public class GameList {
             
             int refPos = line.indexOf(",", peoplePos);
             String ref = line.substring(peoplePos+1, refPos);
+            
+            
+            Game newGame = new Game(numeral, year, city, winner, loser, score); 
+            superBowls.add(newGame);
+            System.out.println(newGame);
+
             //Game,Date,Winning team,Score,Losing team,Venue,City,Attendance,Referee
 
             
