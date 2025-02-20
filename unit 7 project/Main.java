@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        File file = new File("C:\\Users\\student\\.vscode\\.vscode\\unit 7 project\\SuperBowlData.txt");
+        File file = new File("placeholder");
         Scanner text = new Scanner(file);
 
         GameList newList1 = new GameList(file);

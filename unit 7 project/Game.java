@@ -6,6 +6,7 @@ public class Game {
     private String loser;
     private String score;
 
+    // constructor
     public Game(String numeral, int year, String location, String winner, String loser, String score) {
         this.numeral = numeral;
         this.year = year;
